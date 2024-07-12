@@ -89,7 +89,7 @@ public class StudentRecordManagement {
 			// Display message for successful deletion of
 			// record
 			System.out.println(
-				"Successfully removed record from the list");
+				"Successfully deleted Record from the list");
 		}
 	}
 
