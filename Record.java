@@ -9,6 +9,7 @@ public class Record {
 	private String name;
 	private int idNumber;
 	private int contactNumber;
+	private String lastName;
 
 	// Default Constructor
 	public Record() {}
