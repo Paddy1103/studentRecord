@@ -8,6 +8,8 @@ public class Record {
 	// Instance variables
 	private String name;
 	private int idNumber;
+	private int contactNumber;
+	private String lastName2;
 	private String lastName;
 	private String sahu;
 	private String fatherName;
