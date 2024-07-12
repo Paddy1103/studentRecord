@@ -8,15 +8,11 @@ public class Record {
 	// Instance variables
 	private String name;
 	private int idNumber;
-	private int contactNumber;
-<<<<<<< HEAD
 	private String lastName;
 	private String sahu;
-=======
-	private String lastName1;
 	private String fatherName;
 	private String motherName;
->>>>>>> paddy
+
 
 	// Default Constructor
 	public Record() {}
