@@ -10,6 +10,7 @@ public class Record {
 	private int idNumber;
 	private int contactNumber;
 	private String lastName;
+	private String sahu;
 
 	// Default Constructor
 	public Record() {}
