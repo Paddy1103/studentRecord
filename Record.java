@@ -9,7 +9,7 @@ public class Record {
 	private String name;
 	private int idNumber;
 	private int contactNumber;
-	private String lastName1;
+	private String lastName2;
 	private String fatherName;
 	private String motherName;
 
