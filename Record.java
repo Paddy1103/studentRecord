@@ -10,8 +10,9 @@ public class Record {
 	private int idNumber;
 	private int contactNumber;
 	private String lastName2;
-	private String lastName111111111111111;
-	private String sahu23333333333333333;
+	private String fatherName111111111;
+	private String motherName;
+	private String paddy;
 	private String fatherName;
 	private String mothersName;
 	private String sahu2;
