@@ -9,13 +9,7 @@ public class Record {
 	private String name;
 	private int idNumber;
 	private int contactNumber;
-	private String lastName2;
-	private String fatherName111111111;
-	private String motherName;
-	private String paddy;
-	private String fatherName;
-	private String mothersName;
-	private String sahu2;
+	private String landlineNum;
 
 
 	// Default Constructor
