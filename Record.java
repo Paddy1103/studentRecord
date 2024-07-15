@@ -13,7 +13,7 @@ public class Record {
 	private String lastName;
 	private String sahu;
 	private String fatherName;
-	private String motherName;
+	private String mothersName;
 	private String sahu2;
 
 
