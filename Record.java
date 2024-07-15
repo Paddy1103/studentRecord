@@ -14,6 +14,7 @@ public class Record {
 	private String sahu;
 	private String fatherName;
 	private String motherName;
+	private String sahu2;
 
 
 	// Default Constructor
