@@ -10,6 +10,7 @@ public class Record {
 	private int idNumber;
 	private int contactNumber;
 	private String landlineNum;
+	private String paddy;
 
 
 	// Default Constructor
